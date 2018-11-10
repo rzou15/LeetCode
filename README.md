@@ -1,2 +1,2 @@
 # LeetCode
-Coding Trainings。
+Coding Trainings
